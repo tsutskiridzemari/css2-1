@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 20px 80px;
+}
+
+#nextmove {
+    display: inline-block;
+    margin-left: 45px;
+
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    vertical-align: center;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+li {
+    display: inline-block;
+    color: #323232;
+    margin-left: 20px;
+}
+
+#us {
+    color: #AC00FF;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    padding: 8px 16px;
+    margin-left: 80px;
+}
+
+#cards {
+    color: #323232;
+    width: 720px;
+    height: 128px;
+    font-size: 64px;
+    font-weight: 400;
+    margin-left: 214px;
+    margin-top: 60px;
+}
+
+#money {
+    color: #323232;
+    font-size: 24px;
+    font-weight: 400;
+    width: 841px;
+    height: 64px;
+    margin-left: 214px;
+    margin-top: 24px;
+}
+
+#now {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    width: 77px;
+    height: 22px;
+    text-align: center;
+    border-radius: 8px;
+    background: #5C3BAE;
+    padding: 16px 24px;
+    display: flex;
+    width: 204px;
+    height: 54px;
+    margin-left: 214px;
+    margin-top: 24px;
+    display: inline-block;
+}
+
+#foto {
+    width: 32px;
+    height: 32px;
+    margin-left: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#video {
+    color: #4D3491;
+    font-size: 18px;
+    width: 150px;
+    height: 24px;
+    display: inline-block;
+}
+
+#barati {
+    width: 1311px;
+    height: 761px;
+    margin-left: 610px; 
+    max-width: 100%;
+}
